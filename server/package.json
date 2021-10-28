@@ -1,0 +1,27 @@
+{
+  "name": "Phincon",
+  "version": "1.0.0",
+  "description": "pokemon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreas-febryanto/Phincon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreas-febryanto/Phincon/issues"
+  },
+  "homepage": "https://github.com/andreas-febryanto/Phincon#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "pg": "^8.7.1",
+    "sequelize": "^6.8.0"
+  }
+}
